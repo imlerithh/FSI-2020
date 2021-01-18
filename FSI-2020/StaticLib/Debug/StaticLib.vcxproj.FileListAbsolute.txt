@@ -1,0 +1,2 @@
+D:\Курсовой\FSI-2020\Debug\StaticLib.pdb
+D:\Курсовой\FSI-2020\StaticLib\Debug\StaticLib.pdb

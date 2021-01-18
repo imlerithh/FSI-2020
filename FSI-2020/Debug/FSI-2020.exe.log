@@ -1,0 +1,89 @@
+Тест Без ошибок
+---- Протокол ------- Дата: 15.12.2020 11:41:20 ---------
+---- Параметры -------
+-log: D:\on fire\FSI-2020\Debug\FSI-2020.exe.log
+-out: D:\on fire\FSI-2020\Debug\FSI-2020.exe.out
+-in: ../Debug/input.txt
+---- Исходные данные -----
+Количество символов: 484
+Проигнорировано:     0
+Количество строк:    36
+Удаленные символы:   2
+
+Входной файл после преобразования:
+totum munus fa(totum s)
+{
+s = transformatio('E');
+reditus s;
+};
+pelagus
+{
+annuntiate chorda a;
+annuntiate logicus z;
+annuntiate totum one;
+annuntiate totum two;
+a = "collapse/chaos";
+one = "ssq";
+one = fa(one);
+loquor one;
+z = verum;
+one = 111;
+loquor one;
+conditio(z){
+one = quadrum(110);
+};
+loquor "one";
+one = (one + 3o * 010;
+loquor one;
+loquor "two";
+two = one - 01001 % 5o;
+loquor two;
+loquor a;
+two = randomness();
+repeat(011){
+two = two / 12o;
+loquor two;
+};
+ reditus 0;
+};
+
+----------ЛЕКСЕМЫ----------
+t f i ( t i ) 
+ { 
+ i = y ( l ) ; 
+ r i ; 
+ } ; 
+ m 
+ { 
+ d t i ; 
+ d t i ; 
+ d t i ; 
+ d t i ; 
+ i = l ; 
+ i = l ; 
+ i = i ( i ) ; 
+ p i ; 
+ i = l ; 
+ i = l ; 
+ p i ; 
+ u ( i ) { 
+ i = q ( l ) ; 
+ } ; 
+ p l ; 
+ i = ( i + l * l ; 
+ p i ; 
+ p l ; 
+ i = i - l % l ; 
+ p i ; 
+ p i ; 
+ i = x ( ) ; 
+ z ( l ) { 
+ i = i / l ; 
+ p i ; 
+ } ; 
+ r l ; 
+ } ; 
+[LEX] Лексический анализ выполнен без ошибок
+603: строка 23, [SYN] Ошибка в операторах выражений
+603: строка 23, [SYN] Ошибка в операторах выражений
+603: строка 23, [SYN] Ошибка в операторах выражений

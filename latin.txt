@@ -1,0 +1,11 @@
+loquor - говорить - print
+totum - всё, целое, совокупность - integer
+signum - знак - char
+repeat - повторить - for
+conditio - условие - if
+chorda - строка - string
+reditus - вернуть - return
+munus - функция - function
+annuntiate - объявить - declare
+pelagus - главный - main
+quadrum - квадрат - pow

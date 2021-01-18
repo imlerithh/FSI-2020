@@ -1,0 +1,35 @@
+totum munus fa(totum s)
+{
+s = transformatio('E');
+reditus s;
+};
+pelagus
+{
+annuntiate chorda a;
+annuntiate logicus z;
+annuntiate totum one;
+annuntiate totum two;
+a = "collapse/chaos";
+one = "ssq";
+one = fa(one);
+loquor one;
+z = verum;
+one = 111;
+loquor one;
+conditio(z){
+one = quadrum(110);
+};
+loquor "one";
+one = (one + 3o * 010;
+loquor one;
+loquor "two";
+two = one - 01001 % 5o;
+loquor two;
+loquor a;
+two = randomness();
+repeat(011){
+two = two / 12o; 
+loquor two;
+};
+ reditus 0;
+};

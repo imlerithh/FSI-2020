@@ -1,0 +1,38 @@
+﻿Сборка начата 11.12.20 23:55:00.
+Уровень детализации журнала: Normal.     1>Проект "D:\Курсовой\FSI-2020\StaticLib\StaticLib.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\StaticLib.tlog\StaticLib.lastbuildstate" удаляется.
+       CoreClean:
+         Файл "D:\Курсовой\FSI-2020\Debug\StaticLib.pdb" удаляется.
+         Файл "D:\Курсовой\FSI-2020\StaticLib\Debug\StaticLib.pdb" удаляется.
+       InitializeBuildStatus:
+         Создание "Debug\StaticLib.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       _MASM:
+         Assembling asmLib.asm...
+         cmd.exe /C "C:\Users\Asus\AppData\Local\Temp\tmp8f1b29a03f87446c8137386bd7eab77f.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\asmLib.obj" /W3 /errorReport:prompt  /TaasmLib.asm
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\StaticLib.pdb" /Gd /TP /analyze- /FC /errorReport:prompt cppLib.cpp
+         cppLib.cpp
+     1>D:\Курсовой\FSI-2020\StaticLib\cppLib.cpp(7,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"D:\Курсовой\FSI-2020\Debug\StaticLib.lib" /NOLOGO /MACHINE:X86 Debug\cppLib.obj
+         Debug\asmLib.obj
+         StaticLib.vcxproj -> D:\Курсовой\FSI-2020\Debug\StaticLib.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "D:\Курсовой\FSI-2020\StaticLib\Debug\StaticLib.pdb" в "D:\Курсовой\FSI-2020\Debug\StaticLib.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\StaticLib.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\StaticLib.tlog\StaticLib.lastbuildstate".
+     1>Сборка проекта "D:\Курсовой\FSI-2020\StaticLib\StaticLib.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "D:\Курсовой\FSI-2020\StaticLib\StaticLib.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Курсовой\FSI-2020\StaticLib\cppLib.cpp(7,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:03.79

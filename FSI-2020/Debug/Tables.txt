@@ -1,0 +1,166 @@
+	ÒÀÁËÈÖÀ ËÅÊÑÅÌ
+
+  Ñòğîêà | Ëåêñåìà | id â idtable |     Îáëàñòü
+
+	1 	n 			global
+	1 	f 			global
+	1 	i 	0		global
+	1 	( 			fa
+	1 	n 			fa
+	1 	i 	1		fa
+	1 	) 			fa
+	2 	{ 			fa
+	3 	i 	1		fa
+	3 	= 			fa
+	3 	l 	2		fa
+	3 	@ 			fa
+	3 	; 			fa
+	3 	# 			fa
+	3 	; 			fa
+	4 	r 			fa
+	4 	i 	1		fa
+	4 	; 			fa
+	5 	} 			fa
+	5 	; 			global
+	6 	m 			global
+	7 	{ 			pelagus
+	8 	d 			pelagus
+	8 	s 			pelagus
+	8 	i 	3		pelagus
+	8 	; 			pelagus
+	9 	d 			pelagus
+	9 	b 			pelagus
+	9 	i 	4		pelagus
+	9 	; 			pelagus
+	10 	d 			pelagus
+	10 	n 			pelagus
+	10 	i 	5		pelagus
+	10 	; 			pelagus
+	11 	d 			pelagus
+	11 	n 			pelagus
+	11 	i 	6		pelagus
+	11 	; 			pelagus
+	12 	i 	3		pelagus
+	12 	= 			pelagus
+	12 	l 	7		pelagus
+	12 	; 			pelagus
+	13 	i 	5		pelagus
+	13 	= 			pelagus
+	13 	i 	5		pelagus
+	13 	@ 	0		pelagus
+	13 	; 			pelagus
+	13 	# 			pelagus
+	13 	; 			pelagus
+	14 	p 			pelagus
+	14 	i 	5		pelagus
+	14 	; 			pelagus
+	15 	i 	4		pelagus
+	15 	= 			pelagus
+	15 	l 	8		pelagus
+	15 	; 			pelagus
+	16 	i 	5		pelagus
+	16 	= 			pelagus
+	16 	l 	9		pelagus
+	16 	; 			pelagus
+	17 	p 			pelagus
+	17 	i 	5		pelagus
+	17 	; 			pelagus
+	18 	u 			pelagus
+	18 	( 			pelagus
+	18 	i 	4		pelagus
+	18 	) 			pelagus
+	18 	{ 			pelagus
+	19 	i 	5		pelagus
+	19 	= 			pelagus
+	19 	l 	10		pelagus
+	19 	@ 			pelagus
+	19 	; 			pelagus
+	19 	# 			pelagus
+	19 	; 			pelagus
+	20 	} 			pelagus
+	20 	; 			pelagus
+	21 	p 			pelagus
+	21 	l 	11		pelagus
+	21 	; 			pelagus
+	22 	i 	5		pelagus
+	22 	= 			pelagus
+	22 	i 	5		pelagus
+	22 	l 	12		pelagus
+	22 	v 			pelagus
+	22 	l 	13		pelagus
+	22 	v 			pelagus
+	22 	# 			pelagus
+	22 	# 			pelagus
+	22 	; 			pelagus
+	23 	p 			pelagus
+	23 	i 	5		pelagus
+	23 	; 			pelagus
+	24 	p 			pelagus
+	24 	l 	14		pelagus
+	24 	; 			pelagus
+	25 	i 	6		pelagus
+	25 	= 			pelagus
+	25 	i 	5		pelagus
+	25 	l 	15		pelagus
+	25 	l 	16		pelagus
+	25 	v 			pelagus
+	25 	v 			pelagus
+	25 	; 			pelagus
+	26 	p 			pelagus
+	26 	i 	6		pelagus
+	26 	; 			pelagus
+	27 	p 			pelagus
+	27 	i 	3		pelagus
+	27 	; 			pelagus
+	28 	i 	6		pelagus
+	28 	= 			pelagus
+	28 	@ 			pelagus
+	28 	; 			pelagus
+	28 	# 			pelagus
+	28 	; 			pelagus
+	29 	z 			pelagus
+	29 	( 			pelagus
+	29 	l 	17		pelagus
+	29 	) 			pelagus
+	29 	{ 			pelagus
+	30 	i 	6		pelagus
+	30 	= 			pelagus
+	30 	i 	6		pelagus
+	30 	l 	18		pelagus
+	30 	v 			pelagus
+	30 	; 			pelagus
+	31 	p 			pelagus
+	31 	i 	6		pelagus
+	31 	; 			pelagus
+	32 	} 			pelagus
+	32 	; 			pelagus
+	33 	r 			pelagus
+	33 	l 	19		pelagus
+	33 	; 			pelagus
+	34 	} 			pelagus
+	34 	; 			global
+
+	ÒÀÁËÈÖÀ ÈÄÅÍÒÈÔÈÊÀÒÎĞÎÂ
+ 
+  Èíäåêñ | Èäåíòèôèêàòîğ |             Òèï             | Çíà÷åíèå
+
+	0 	fa 		F 	totum 		0
+	1 	s 		P 	totum 		0
+	2 	_L2 		L 	signum 		'E'
+	3 	a 		V 	chorda 		""
+	4 	z 		V 	logicus 	falsus
+	5 	one 		V 	totum 		0
+	6 	two 		V 	totum 		0
+	7 	_L7 		L 	chorda 		"collapse/chaos"
+	8 	_L8 		L 	logicus 	verum
+	9 	_L9 		L 	totum 		-3
+	10 	_L10 		L 	totum 		-2
+	11 	_L11 		L 	chorda 		"one"
+	12 	_L12 		L 	totum 		3
+	13 	_L13 		L 	totum 		2
+	14 	_L14 		L 	chorda 		"two"
+	15 	_L15 		L 	totum 		9
+	16 	_L16 		L 	totum 		5
+	17 	_L17 		L 	totum 		3
+	18 	_L18 		L 	totum 		10
+	19 	_L19 		L 	totum 		0
